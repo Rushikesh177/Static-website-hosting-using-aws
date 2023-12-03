@@ -1,5 +1,8 @@
 # Static Website Hosting on AWS S3 with Custom Domain
 
+to view website hosted on aws click below :
+https://mywebbucket2312.s3.ap-northeast-1.amazonaws.com/index.html
+
 ## Project Overview
 
 This project demonstrates the process of hosting a simple static website on AWS S3 (Simple Storage Service) and configuring a custom domain using AWS Route 53. The website includes a basic HTML webpage and CSS styles.
