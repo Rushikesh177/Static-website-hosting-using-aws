@@ -12,10 +12,8 @@ This project demonstrates the process of hosting a simple static website on AWS 
   - [Installation](#installation)
 - [Configuration](#configuration)
   - [S3 Bucket Configuration](#s3-bucket-configuration)
-  - [Custom Domain Setup](#custom-domain-setup)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
@@ -37,8 +35,8 @@ Before starting, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/static-website-aws-s3.git
-    cd static-website-aws-s3
+    git clone https://github.com/Rushikesh177/static-website-hosting-using-aws.git
+    cd static-website-hosting-using-aws
     ```
 
 2. Set up AWS CLI with your credentials.
@@ -59,13 +57,9 @@ Before starting, make sure you have the following installed:
 
 ## Testing
 
-Wait for DNS propagation, and then visit your custom domain in a web browser. Verify the accessibility of the static website.
+https://mywebbucket2312.s3.ap-northeast-1.amazonaws.com/index.html
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
